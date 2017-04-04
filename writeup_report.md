@@ -38,7 +38,7 @@ The goals / steps of this project are the following:
 ---
 ###Writeup / README
 
-You're reading it! and here is a link to my [project code](https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project/blob/master/Traffic_Sign_Classifier.ipynb)
+You're reading it! and here is a link to my [project code](https://github.com/OniCampos/P2-TrafficSignClassifier/blob/master/Traffic_Sign_Classifier.ipynb)
 
 ###Data Set Summary & Exploration
 
@@ -124,7 +124,8 @@ Here are five German traffic signs that I found on the web:
 ![alt text][image4] ![alt text][image5] ![alt text][image6] 
 ![alt text][image7] ![alt text][image8]
 
-The first image might be difficult to classify because ...
+The second (slippery road sign) and fifth (speed limit 100 km/h sign) images might be difficult to classify because, for the second one, there is a lot of snow on the sign making difficult to analise the pixels on the right way. For the fifth image, what can make difficult to predict is that the image is blurry.
+The other images might be easier to classify because they have good quality.
 
 The code for making predictions on my final model is located in the tenth cell of the Ipython notebook.
 
